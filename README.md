@@ -38,7 +38,7 @@
 <p>To replicate the analysis:</p>
 <ol>
     <li>Clone the repository:
-        <pre><code>git clone https://github.com/your-username/diwali-sales-analysis.git</code></pre>
+        <pre><code>git clone https://github.com/jameel2607/Diwali-Sales-Data-Analysis.git</code></pre>
     </li>
     <li>Install dependencies:
         <p>Ensure you have Python installed. Install the required libraries using:</p>
