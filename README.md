@@ -30,7 +30,7 @@
 <h2>Dataset</h2>
 <ul>
     <li><strong>Dataset Name</strong>: Diwali Sales Data</li>
-    <li><strong>Source</strong>: [Provide dataset source if available]</li>
+    <li><strong>Source</strong>: Self-collected</li>
     <li><strong>Description</strong>: The dataset includes customer demographics, sales data, and product categories, enabling a detailed exploration of sales trends.</li>
 </ul>
 
@@ -55,16 +55,15 @@
 <ul>
     <li><strong>Demographics</strong>:
         <ul>
-            <li>Majority of the customers are [gender insights].</li>
-            <li>Age group [specific age group] contributes the most to sales.</li>
-            <li>[Other key insights from demographics].</li>
+            <li>Majority of the customers are female.</li>
+            <li>Age group 26-35 contributes the most to sales.</li>
+            <li>Most of the customers are from IT Sector.</li>
         </ul>
     </li>
     <li><strong>Sales Trends</strong>:
         <ul>
-            <li>Highest sales observed in [top state/zone].</li>
-            <li>[Top product category] is the most popular.</li>
-            <li>[Other purchasing patterns].</li>
+            <li>Highest sales observed in Uttar Pradesh (Central Zone).</li>
+            <li>Clothing & Apparel is the most popular.</li>
         </ul>
     </li>
 </ul>
